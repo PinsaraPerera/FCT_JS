@@ -1,0 +1,23 @@
+
+body{
+    margin: 0;
+    padding-top: 5rem;
+}
+
+
+.card{
+    background-color: aquamarine;
+}
+
+input{
+    margin-bottom: 5px;
+}
+
+p{
+    background-color: rgba(164, 164, 164, 0.725);
+    height: 3rem;
+    border-radius: 5px;
+    padding-left: 1rem;
+    padding-top: 8px;
+    border: 1px solid black;
+}
